@@ -125,7 +125,7 @@ body {
     top: 30px;
 }
 
-.content-notbook {
+.content-notebook {
     width: 400px;
     position: relative;
     left: 190px;
@@ -136,7 +136,7 @@ body {
     border-right: 100px solid grey;
 }
 
-.content-notbook-inside {
+.content-notebook-inside {
     width: 405px;
     position: relative;
     left: 202px;
@@ -146,7 +146,7 @@ body {
     border-right: 85px solid #d4f5f3;
 }
 
-.content-notbook-bottom {
+.content-notebook-bottom {
     width: 601px;
     position: relative;
     left: 190px;
@@ -156,7 +156,7 @@ body {
     background: linear-gradient(to right, white, black)
 }
 
-.content-notbook-mark:before {
+.content-notebook-mark:before {
     content: "\262D";
     position: relative;
     left: 484px;
@@ -164,7 +164,7 @@ body {
     font-size: 26px;
 }
 
-.content-notbook-leg {
+.content-notebook-leg {
     width: 60px;
     position: relative;
     bottom: 274.6px;
@@ -174,7 +174,7 @@ body {
     border-right: 20px solid transparent;
 }
 
-.content-notbook-stand {
+.content-notebook-stand {
     width: 175px;
     position: relative;
     left: 403px;
@@ -209,7 +209,7 @@ body {
     font-size: 50px;
 }
 
-.sumbols_1 {
+.symbols_1 {
     position: absolute;
     bottom: 22px;
     left: 250px;
@@ -219,7 +219,7 @@ body {
     border: 1px solid #252525;
 }
 
-.sumbols_2 {
+.symbols_2 {
     position: absolute;
     left: 800px;
     bottom: 22px;
@@ -229,7 +229,7 @@ body {
     border: 1px solid #252525;
 }
 
-.sumbols_3 {
+.symbols_3 {
     position: absolute;
     left: 250px;
     top: 3px;
@@ -239,7 +239,7 @@ body {
     border: 1px solid #252525;
 }
 
-.sumbols_4 {
+.symbols_4 {
     position: absolute;
     left: 800px;
     top: 1px;
@@ -249,16 +249,16 @@ body {
     border: 1px solid #252525;
 }
 
-.sumbols_1:hover,
-.sumbols_2:hover,
-.sumbols_3:hover,
-.sumbols_4:hover {
+.symbols_1:hover,
+.symbols_2:hover,
+.symbols_3:hover,
+.symbols_4:hover {
     background-color: #ffde00;
     border: 1px solid #ffde00;
     cursor: pointer;
 }
 
-.special-sumbols-text {
+.special-symbols-text {
     position: relative;
     top: 500px;
 }
